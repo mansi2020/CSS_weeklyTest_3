@@ -172,7 +172,9 @@ box-shadow: The box-shadow property adds a shadow effect to an element's borders
 
 border-radius : property in CSS is used to create rounded corners for elements, such as divs, buttons, and images. It defines the curvature of the corners by specifying one or more values, which can be lengths (in pixels or other units) or percentages.   
 
-Hidden Overflow: If the content within the element overflows its designated area, any content that extends beyond the boundaries of the element will be clipped and hidden from view.
+Hidden Overflow: If the content within the element overflows its designated area, any content that extends beyond the boundaries of the element will be clipped and hidden from view.  
+
+hover : effect in CSS refers to changing the appearance of an element when a user hovers their mouse pointer over it.  
 
 
 
